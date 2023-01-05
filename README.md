@@ -1,3 +1,5 @@
+See the website: https://aaegis.github.io/vocabHelperV2/
+
 This is a project for friends and classmates to use in order to help them with their English Schoolwork. It is a website that generates
 the current Vocabulary Words (from class) in a random order to be copied and pasted into a text editor on their device, or other websites.
 
