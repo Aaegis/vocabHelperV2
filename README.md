@@ -4,10 +4,9 @@ the current Vocabulary Words (from class) in a random order to be copied and pas
 This website is not affiliated or approved by San Jose Unified School District or Gunderson High School.
 
 Intended use:
-1. My website is used to study **before** a test.
-2. When visiting the site, click the Randomize! button to randomly sort the current Vocabulary Words in a random order.
-3. Copy the list of words onto a text editor (Notepad, Notepad++, Google Doc, etc.) and write down the definitions of the words next to them.
-4. Try to see if you can memorize their definitions.
+1. When visiting the site, click the Randomize! button to randomly sort the current Vocabulary Words in a random order.
+2. Copy the list of words onto a text editor (Notepad, Notepad++, Google Doc, etc.) and write down the definitions of the words next to them.
+3. Try to see if you can memorize their definitions.
 
 I manually update this website when new vocabulary words are released. This means the Vocabulary Words will need some time to update.
 
