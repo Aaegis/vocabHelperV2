@@ -11,6 +11,5 @@ document.getElementById('randomizeButton').onclick = function() {
         selectedValue = selectedValue - 1;
         [wordList[selectedValue], wordList[randomValue]] = [wordList[randomValue], wordList[selectedValue]];
     }
-    console.log("test");
     document.getElementById('wordTextArea').innerHTML = wordList.join('\n');
 };
