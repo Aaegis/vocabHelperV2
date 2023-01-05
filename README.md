@@ -13,3 +13,6 @@ Intended use:
 I manually update this website when new vocabulary words are released. This means the Vocabulary Words will need some time to update.
 
 I cannot guarantee that this website will always be available. Please do not rely on this website to study, or please have backup plans.
+
+This is a continuation of my English Vocabulary Lesosn Helper (different repository). Rather than updating, I decided to make a new repository
+so that I could learn Web Development by myself rather than let others do it for me. However, I do appreciate anyone's help/advice!
