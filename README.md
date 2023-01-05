@@ -12,3 +12,7 @@ Intended use:
 I manually update this website when new vocabulary words are released. This means the Vocabulary Words will need some time to update.
 
 I cannot guarantee that this website will always be available. Please do not rely on this website to study, or please have backup plans.
+
+The difference between this one and the last one (different repo) was that I made the website look nicer. It still basically has the same functions, 
+as well as some links to my Github profile and this repository. I decided to make this a separate project rather than update my old repository as I think
+it would help me learn web development compared to having other people help me built it. However, I do not take your advice and help for granted. Thank you so much!
